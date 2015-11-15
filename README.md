@@ -5,7 +5,12 @@ Playing with [Node.JS](https://nodejs.org/), [Express](http://expressjs.com/) an
 ## Installation
 
 ```
-git clone git@github.com:jeancsil/memcached-monitor.git 
+npm install simple-memcached-monitor
+```
+
+
+```
+git clone git@github.com:jeancsil/simple-memcached-monitor.git 
 ```
 and
 ```
