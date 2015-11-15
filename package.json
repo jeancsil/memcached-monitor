@@ -1,6 +1,17 @@
 {
   "name": "memcached-monitor",
+  "description": "Simple stats for Memcached",
+  "author": "Jean Carlos <jeancsil@gmail.com>",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/jeancsil/memcached-monitor"
+   },
+   "keywords": [
+       "memcached",
+       "monitor"
+   ],
   "version": "0.0.1",
+  "license": "GPLv3",
   "dependencies": {
     "ejs": "~1.0.0",
     "express": "~4.0.0",
