@@ -7,7 +7,7 @@ module.exports = function (app) {
     });
 
     app.get('/memcached/users', function (req, res) {
-        memcachedService.getActiveUsers(function(result){
+        memcachedService.getStats(function (result) {
             res.json(result);
         });
     });
