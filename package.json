@@ -1,10 +1,10 @@
 {
-  "name": "memcached-monitor",
+  "name": "simple-memcached-monitor",
   "description": "Simple stats for Memcached",
   "author": "Jean Carlos <jeancsil@gmail.com>",
   "repository": {
       "type": "git",
-      "url": "https://github.com/jeancsil/memcached-monitor"
+      "url": "https://github.com/jeancsil/simple-memcached-monitor"
    },
    "keywords": [
        "memcached",
