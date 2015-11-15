@@ -1,10 +1,16 @@
 ## Synopsis
 
-Playing with Node.JS, Express and [Memcached](https://www.npmjs.com/package/memcached)
+Playing with [Node.JS](https://nodejs.org/), [Express](http://expressjs.com/) and [Memcached](https://www.npmjs.com/package/memcached)
 
 ## Installation
 
-git clone and node server.js
+```
+git clone git@github.com:jeancsil/memcached-monitor.git 
+```
+and
+```
+node server.js
+```
 
 ## License
 
