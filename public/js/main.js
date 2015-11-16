@@ -1,7 +1,7 @@
 (function ($) {
     ping = function() {
         $.ajax({
-            url: '/memcached/users',
+            url: '/memcached/stats',
             method: 'GET'
         })
         .done(function (result) {
